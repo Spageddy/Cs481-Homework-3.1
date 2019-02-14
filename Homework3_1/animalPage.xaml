@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Homework3_1.animalPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Button
+                x:Name="dogImage"
+                Image="dog.png"
+                IsVisible="false"
+                Clicked="dog_Clicked"
+                WidthRequest="300"
+                HeightRequest="300"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                BackgroundColor="Transparent"
+                />
+                <Button
+                x:Name="catImage"
+                Image="cat.png"
+                IsVisible="false"
+                Clicked="cat_Clicked"
+                WidthRequest="300"
+                HeightRequest="300"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                BackgroundColor="Transparent"
+                />
+            <Label
+                x:Name="petName"
+                Text="Please click on "
+                FontSize="Large"
+                />
+            <Button
+                Text="Make a new pet!"
+                Clicked="newpet_Clicked"
+                HorizontalOptions="Center"
+              WidthRequest="300"
+             HeightRequest="50" 
+                BackgroundColor="Silver"
+                TextColor="White"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
