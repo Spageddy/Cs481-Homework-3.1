@@ -1,6 +1,6 @@
 # Cs481-Homeork-3.1
 
-An app that lets you create a pet, name it and wave hello. 
+An app that lets you create a pet, name it, and wave hello. 
 
 Android:
 
