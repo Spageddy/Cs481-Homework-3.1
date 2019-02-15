@@ -8,7 +8,7 @@ Android:
 
 IOS:
 
-<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-1.png?raw=true" width="375" height="712">
-<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-2.png?raw=true" width="375" height="712">
-<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-3.png?raw=true" width="375" height="712">
-<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-4.png?raw=true" width="375" height="712">
+<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-1.png?raw=true" width="19.5" height="9">
+<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-2.png?raw=true" width="19.5" height="9">
+<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-3.png?raw=true" width="19.5" height="9">
+<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/ios-4.png?raw=true" width="19.5" height="9">
