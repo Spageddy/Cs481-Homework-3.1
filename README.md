@@ -4,7 +4,7 @@
 
 Android:
 
-<img src="hhttps://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/android.gif?raw=true" width="300" height="450">
+<img src="https://github.com/Spageddy/Cs481-Homework-3.1/blob/master/Images/android.gif?raw=true" width="300" height="450">
 
 IOS:
 
